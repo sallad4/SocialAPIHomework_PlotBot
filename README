@@ -1,0 +1,8 @@
+@Plotbot4444 - A twitter bot that will perform sentiment analysis on a requested twitter account's tweets. 
+
+Ask @pbot4444 by tweeting: @pbot4444 Analyze: @user_name
+
+Checks for duplicate analysis using the target_acct.csv.
+
+Checks for new tweets once every 5 minutes.
+
